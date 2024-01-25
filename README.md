@@ -1,5 +1,5 @@
 # mnist-cnn
-CNN to recognize handwritten digits on MNIST dataset.
+CNN made with PyTorch to recognize handwritten digits on MNIST dataset.
 
 Clone the repository and run:
 ```
